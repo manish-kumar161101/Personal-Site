@@ -1,0 +1,289 @@
+.yellow-colored{
+    background-color: #F1ECC3;
+}
+
+.red-colored{
+    background-color: #DF5E5E;
+}
+
+.white-colored{
+    background-color: #F9F9F9;
+}
+
+h2, h3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* Navigation section */
+
+.ml-auto{
+    margin-left: auto;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.navbar{
+    padding: 1% 5%;;
+}
+
+.navbar-brand{
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.nav-item{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0 1%;
+}
+
+/* Home Section */
+
+#Home{
+    text-align: center;
+    background-image: url("https://cdn.wallpapersafari.com/84/13/5XpPyw.jpg");
+    background-size: cover;
+    padding-top: 9%;
+}
+
+#Home .container-fluid{
+    padding: 0 10% 19%;
+}
+
+#Home h1{
+    font-family: 'Redressed', cursive;
+    font-size: 4rem;
+    color: white;
+}
+
+#Home h2{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 550;
+    color: rgb(0, 247, 255);
+    padding-top: 5%;
+}
+
+.student-img{
+    height: 100%;
+    width: 50%;
+}
+
+.down-arrow{
+    position: relative;
+    padding-bottom: 5%;
+    color: #595260;
+}
+
+.down-arrow:hover{
+    color: black;
+}
+
+/* Introduction Section */
+
+#Introduction{
+    text-align: center;
+    padding: 5% 10%;
+}
+
+#Introduction h2{
+    margin-bottom: 5%;
+    font-size: 2.5rem;;
+}
+
+#Introduction .col{
+    padding: 5%;
+}
+
+.my-image{
+    height: 60%;
+    width: 47%;
+}
+
+.image-container{
+    padding-top: 5%;
+}
+
+#Introduction p{
+    color: white;
+    font-size: 1.35rem;
+    text-align: left;
+    font-family: 'Uchen', serif;
+}
+
+#Introduction h3{
+    margin-bottom: 6%;
+    margin-top: 2%;
+}
+ul.none{
+    list-style-type: none;
+    font-family: 'Uchen', serif;
+    text-align: left;
+}
+
+#Introduction ul{
+    color: #353535;
+    padding-left: 20%;
+    font-size: 1.35rem;
+}
+
+/* Academic Section */
+
+#Academics{
+    padding: 5% 10%;
+}
+
+#Academics h2{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+table{
+    width: 80%;
+    text-align: center;
+    margin: 5% auto;
+    font-family: 'Uchen', serif;
+    font-size: 1.2rem;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th{
+    background-color: #A19882;
+}
+
+td{
+    background-color: #d6e4fd;
+}
+
+#Academics ul{
+    padding: 0;
+    margin:7% 0;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.space-below{
+    margin-bottom: 5%;
+}
+
+.part{
+    text-align: center;
+    margin: 0 4% 5%;
+    background-color: #FFE194;
+}
+
+/* Interests Section */
+
+#Interests{
+    text-align: center;
+    padding: 5% 10%;
+}
+
+#Interests h2{
+    padding: 5% 0;
+    font-size: 2.5rem;
+}
+
+.dunk{
+    width: 90%;
+}
+
+#Interests h3{
+    color: #353535;
+    font-size: 1.75rem;
+}
+
+p.info{
+    color: white;
+    padding: 7%;
+    font-size: 1.35rem;
+    text-align: left;
+    font-family: 'Uchen', serif;
+}
+
+.anime{
+    width: 80%;
+}
+
+/* Gallery Section */
+
+#Gallery h5{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2rem; 
+    background-color: white;
+}
+
+#Gallery p{
+    font-family: 'Uchen', serif;
+    font-size: 1.35rem;
+    background-color: white;
+}
+
+.color1{
+    color: rgb(189, 84, 84);
+}
+
+.color2{
+    color: rgb(13, 36, 172);
+}
+
+.color3{
+    color: rgb(255, 102, 0);
+}
+
+/* Contact Section */
+
+#Contact{
+    text-align: center;
+    color: white;
+    padding-bottom: 5%;
+}
+
+#Contact h2{
+    padding: 5% 0;
+    font-size: 2.5rem;
+}
+
+#Contact h3{
+    font-size: 1.35rem;
+    font-family: 'Uchen', serif;
+    padding-top: 3%
+}
+
+.contact-link{
+    text-decoration: none;
+    color:yellow;
+}
+
+.contact-link:hover{
+    color: #353535;
+}
+
+.icon1{
+    height: 35%;
+    width: 13%;
+}
+
+.icon2{
+    height: 35%;
+    width: 11%;
+}
+
+/* Footer Section */
+
+#Footer{
+    background-color: #353535;
+    color: rgb(235, 224, 224);
+    text-align: center;
+    padding: 2%;
+    margin: 0;
+}
+
+.arrow{
+    height: 5%;
+    width: 5%;
+}
